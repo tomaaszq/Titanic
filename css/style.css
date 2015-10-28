@@ -132,3 +132,10 @@ footer a:hover {
 .site-box {
 	padding-bottom: 80px;
 }
+.cat {
+	padding-top: 50px;
+	font-size: 25px;
+	text-align: center;
+	margin: 0 auto;
+	font-family:'Alegreya Sans SC', sans-serif;;
+}
